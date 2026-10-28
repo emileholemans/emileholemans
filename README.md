@@ -33,7 +33,7 @@ Evacuation for the IE Tower in Madrid, 35 levels, four stairs. Each person gets 
 <br><br>
 <code>three.js</code> <code>TypeScript</code> <code>Cloudflare Workers</code>
 <br>
-<a href="https://pathout.pathout-hub.workers.dev">live site</a> · <a href="https://pathout.pathout-hub.workers.dev/apps/simulation/">simulation</a>
+<a href="https://pathout.pathout-hub.workers.dev">live site</a> · <a href="https://pathout.pathout-hub.workers.dev/apps/simulation/">simulation</a> · 🔒 <sub>source private</sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://deeptune.eu/"><img src="assets/deeptune.jpg" alt="Deeptune 3D studio room"></a>
@@ -42,7 +42,7 @@ A curated direct‑to‑fan music marketplace. Every release is picked by a pers
 <br><br>
 <code>Next.js</code> <code>React</code> <code>three.js</code>
 <br>
-<a href="https://deeptune.eu/">deeptune.eu</a> · <a href="https://github.com/xcessiveemile/deeptune-release-kit">release kit</a>
+<a href="https://deeptune.eu/">deeptune.eu</a> · 🔒 <sub>source private</sub>
 </td>
 </tr>
 <tr>
@@ -52,6 +52,8 @@ A curated direct‑to‑fan music marketplace. Every release is picked by a pers
 A granular sampler plugin for Ableton Live. Load a sample and watch grains rise off the waveform. Five colour themes, because a plugin should look like it sounds.
 <br><br>
 <code>C++</code> <code>JUCE</code> <code>DSP</code>
+<br>
+<a href="https://xcessiveemile.github.io">see it on my portfolio</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/xcessiveemile/pylevels"><img src="assets/pylevels.jpg" alt="PyLevels world map"></a>
@@ -79,6 +81,8 @@ Find gigs, book talent, get paid. I worked on the Flutter frontend during my int
 A local trend‑to‑video engine: finds trending Shorts in a niche, turns them into blueprints, helps make <i>original</i> videos from them and queues uploads. Every source has to pass a licence check, and nothing goes out until you press Confirm.
 <br><br>
 <code>TypeScript</code> <code>ffmpeg</code> <code>whisper.cpp</code> <code>YouTube API</code>
+<br>
+🔒 <sub>source private · demo on request</sub>
 </td>
 </tr>
 <tr>
