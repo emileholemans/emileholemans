@@ -6,7 +6,6 @@
   <a href="https://xcessiveemile.github.io">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://xcessiveemile.github.io/projects">Work</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/emileholemans/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/emile.holemans_/">Instagram</a> &nbsp;·&nbsp;
   <a href="https://xcessiveemile.github.io/cv/Emile_Holemans_CV.pdf">CV</a>
 </p>
 
