@@ -92,23 +92,20 @@ def hero(theme):
 <div class="wrap">
   <div class="text">
     <p class="label">Product developer, Madrid</p>
-    <h1 class="display">Emile<br>Holemans</h1>
+    <h1 class="display">Emile Holemans</h1>
     <p class="muted intro">I build web, 3D and AI products, and I build them fast. Co-founder of
       Mule Digital and master's student in Computer Science and Digital Innovation at IE University.</p>
     <div class="btns"><span class="btn">See the work &rarr;</span><span class="ghost">Open to 2027 roles</span></div>
   </div>
-  <div class="frame photo"><img src="{(SRC / 'profile.jpg').as_uri()}"></div>
 </div>""", theme, """
-.wrap { display: flex; gap: 40px; align-items: center; padding: 44px 40px; height: 420px; }
+.wrap { display: flex; align-items: center; padding: 44px 40px; height: 360px; }
 .text { flex: 1; }
-h1 { font-size: 76px; margin: 18px 0 20px; }
-.intro { font-size: 15.5px; line-height: 1.65; max-width: 44ch; }
+h1 { font-size: 78px; margin: 18px 0 22px; white-space: nowrap; }
+.intro { font-size: 15.5px; line-height: 1.65; max-width: 62ch; }
 .btns { margin-top: 26px; display: flex; gap: 10px; }
 .btn, .ghost { border-radius: 999px; padding: 11px 20px; font-size: 13.5px; font-weight: 600; }
 .btn { background: %(btn_bg)s; color: %(btn_fg)s; }
 .ghost { border: 1px solid %(edge)s; background: %(soft)s; }
-.photo { width: 250px; flex: none; }
-.photo img { height: 320px; object-fit: cover; object-position: 50%% 22%%; }
 """)
 
 
@@ -172,7 +169,7 @@ def shoot(markup, name, height):
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
     for theme in THEMES:
-        shoot(hero(theme), f"hero-{theme}", 420)
+        shoot(hero(theme), f"hero-{theme}", 360)
         for p in PROJECTS:
             shoot(card(p, theme), f"{p[0]}-{theme}", 340)
         shoot(toolbox(theme), f"toolbox-{theme}", 205)
