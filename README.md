@@ -56,13 +56,13 @@ A granular sampler plugin for Ableton Live. Load a sample and watch grains rise 
 <a href="https://xcessiveemile.github.io">see it on my portfolio</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/xcessiveemile/pylevels"><img src="assets/pylevels.jpg" alt="PyLevels world map"></a>
+<a href="https://pylevels.pages.dev"><img src="assets/pylevels.jpg" alt="PyLevels world map"></a>
 <h4>PyLevels</h4>
 A calm desktop game that teaches Python by typing real code, level by level, with underwater and outer‑space scenery. Nine worlds, flashcards, and an AI tutor (Claude, Gemini or a local model) that nudges without giving the answer away.
 <br><br>
 <code>Python</code> <code>desktop</code> <code>LLM tutor</code>
 <br>
-<a href="https://github.com/xcessiveemile/pylevels">repo</a> · <a href="https://pylevels.pages.dev">site</a>
+<a href="https://pylevels.pages.dev">site</a> · 🔒 <sub>source private</sub>
 </td>
 </tr>
 <tr>
