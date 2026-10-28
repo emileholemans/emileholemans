@@ -33,7 +33,7 @@ Evacuation for the IE Tower in Madrid, 35 levels, four stairs. Each person gets 
 <br><br>
 <code>three.js</code> <code>TypeScript</code> <code>Cloudflare Workers</code>
 <br>
-<a href="https://pathout.pathout-hub.workers.dev">live site</a> · <a href="https://pathout.pathout-hub.workers.dev/apps/simulation/">simulation</a> · 🔒 <sub>source private</sub>
+<a href="https://pathout.pathout-hub.workers.dev">live site</a> · <a href="https://pathout.pathout-hub.workers.dev/apps/simulation/">simulation</a> · <a href="https://xcessiveemile.github.io/projects#pathout">case study</a> · 🔒 <sub>source private</sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://deeptune.eu/"><img src="assets/deeptune.jpg" alt="Deeptune 3D studio room"></a>
@@ -42,18 +42,18 @@ A curated direct‑to‑fan music marketplace. Every release is picked by a pers
 <br><br>
 <code>Next.js</code> <code>React</code> <code>three.js</code>
 <br>
-<a href="https://deeptune.eu/">deeptune.eu</a> · 🔒 <sub>source private</sub>
+<a href="https://deeptune.eu/">deeptune.eu</a> · <a href="https://xcessiveemile.github.io/projects#deeptune">case study</a> · 🔒 <sub>source private</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://xcessiveemile.github.io"><img src="assets/grainfield.jpg" alt="Grainfield plugin with grains rising off the waveform"></a>
+<a href="https://xcessiveemile.github.io/projects#grainfield"><img src="assets/grainfield.jpg" alt="Grainfield plugin with grains rising off the waveform"></a>
 <h4>Grainfield</h4>
 A granular sampler plugin for Ableton Live. Load a sample and watch grains rise off the waveform. Five colour themes, because a plugin should look like it sounds.
 <br><br>
 <code>C++</code> <code>JUCE</code> <code>DSP</code>
 <br>
-<a href="https://xcessiveemile.github.io">see it on my portfolio</a>
+<a href="https://xcessiveemile.github.io/projects#grainfield">case study</a> · 🔒 <sub>source private</sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://pylevels.pages.dev"><img src="assets/pylevels.jpg" alt="PyLevels world map"></a>
@@ -62,7 +62,7 @@ A calm desktop game that teaches Python by typing real code, level by level, wit
 <br><br>
 <code>Python</code> <code>desktop</code> <code>LLM tutor</code>
 <br>
-<a href="https://pylevels.pages.dev">site</a> · 🔒 <sub>source private</sub>
+<a href="https://pylevels.pages.dev">site</a> · <a href="https://xcessiveemile.github.io/projects#pylevels">case study</a> · 🔒 <sub>source private</sub>
 </td>
 </tr>
 <tr>
@@ -73,16 +73,16 @@ Find gigs, book talent, get paid. I worked on the Flutter frontend during my int
 <br><br>
 <code>Flutter</code> <code>mobile</code>
 <br>
-<a href="https://www.weareboogi.com/">weareboogi.com</a>
+<a href="https://www.weareboogi.com/">weareboogi.com</a> · <a href="https://xcessiveemile.github.io/projects#boogi">case study</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://xcessiveemile.github.io"><img src="assets/clipmonster.jpg" alt="ClipMonster videos page"></a>
+<a href="https://xcessiveemile.github.io/projects#clipmonster"><img src="assets/clipmonster.jpg" alt="ClipMonster videos page"></a>
 <h4>ClipMonster</h4>
 A local trend‑to‑video engine: finds trending Shorts in a niche, turns them into blueprints, helps make <i>original</i> videos from them and queues uploads. Every source has to pass a licence check, and nothing goes out until you press Confirm.
 <br><br>
 <code>TypeScript</code> <code>ffmpeg</code> <code>whisper.cpp</code> <code>YouTube API</code>
 <br>
-🔒 <sub>source private · demo on request</sub>
+<a href="https://xcessiveemile.github.io/projects#clipmonster">case study</a> · 🔒 <sub>source private · demo on request</sub>
 </td>
 </tr>
 <tr>
@@ -94,16 +94,18 @@ The studio I co‑founded. Websites, brand and digital strategy for small and ru
 <a href="https://mule-digital.com">mule-digital.com</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://xcessiveemile.github.io"><img src="assets/touchdesigner.jpg" alt="TouchDesigner network"></a>
+<a href="https://xcessiveemile.github.io/projects#touchdesigner"><img src="assets/touchdesigner.jpg" alt="TouchDesigner network"></a>
 <h4>Audiovisual experiments</h4>
 TouchDesigner particle systems, Unity worlds (including replicating a movie scene), Arduino lamps and physical objects. Things that started as a question I wanted to answer with my hands.
 <br><br>
 <code>TouchDesigner</code> <code>Unity</code> <code>Blender</code> <code>Arduino</code>
+<br>
+<a href="https://xcessiveemile.github.io/projects#touchdesigner">TouchDesigner</a> · <a href="https://xcessiveemile.github.io/projects#unity">Unity</a> · <a href="https://xcessiveemile.github.io/projects#dragon-lamp">lamp</a>
 </td>
 </tr>
 </table>
 
-<p align="center"><sub>more on <a href="https://xcessiveemile.github.io">xcessiveemile.github.io</a></sub></p>
+<p align="center"><sub>more on <a href="https://xcessiveemile.github.io/projects">xcessiveemile.github.io/projects</a></sub></p>
 
 ---
 
