@@ -43,7 +43,7 @@ PROJECTS = [
      "Spots what is trending in a niche, turns it into a blueprint, produces an original video and "
      "queues it for YouTube. The heavy work stays on my laptop.", True),
     ("grainfield", "05", "Audio plugin", "Grainfield",
-     ["C++", "JUCE", "DSP"],
+     ["Audio DSP", "Ableton Live", "Built with AI"],
      "A granular sampler for Ableton Live. Load a sample and watch grains rise off the waveform, "
      "in five colour themes.", True),
     ("boogi", "06", "Mobile app, internship", "Boogi",
@@ -59,9 +59,12 @@ PROJECTS = [
      "to answer with my hands.", False),
 ]
 
+# Honest on purpose: what I was trained in, what I am learning, and what I build with AI.
 TOOLBOX = [
-    ("Build", ["React", "Next.js", "TypeScript", "three.js", "Flutter", "Python", "C++ / JUCE"]),
-    ("Create", ["TouchDesigner", "Unity", "Blender", "Ableton", "Arduino"]),
+    ("Trained in", ["C#", "Unity", "Game development (KdG)"]),
+    ("Learning", ["Python"]),
+    ("Build with AI", ["React", "Next.js", "TypeScript", "three.js", "Flutter"]),
+    ("Create", ["TouchDesigner", "Blender", "Ableton", "Arduino"]),
     ("Ship", ["Claude Code", "Cloudflare", "Vercel", "GitHub"]),
 ]
 
@@ -148,10 +151,10 @@ def toolbox(theme):
         + "</div></div>"
         for name, tools in TOOLBOX)
     return page(f'<div class="wrap"><p class="label head">Toolbox</p>{rows}</div>', theme, """
-.wrap { padding: 34px 40px; height: 205px; border-top: 1px solid %(edge)s; }
+.wrap { padding: 34px 40px; height: 290px; border-top: 1px solid %(edge)s; }
 .head { color: %(fg)s; margin-bottom: 22px; }
 .row { display: flex; align-items: baseline; gap: 20px; margin-bottom: 10px; }
-.row .label { width: 70px; flex: none; }
+.row .label { width: 130px; flex: none; }
 """)
 
 
@@ -172,7 +175,7 @@ def main():
         shoot(hero(theme), f"hero-{theme}", 360)
         for p in PROJECTS:
             shoot(card(p, theme), f"{p[0]}-{theme}", 340)
-        shoot(toolbox(theme), f"toolbox-{theme}", 205)
+        shoot(toolbox(theme), f"toolbox-{theme}", 290)
 
 
 if __name__ == "__main__":
