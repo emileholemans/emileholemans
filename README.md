@@ -12,7 +12,7 @@
 <p>
 <a href="https://xcessiveemile.github.io/projects#pathout"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/pathout-dark.png"><img src="assets/cards/pathout-light.png" alt="Pathout, evacuation system for the IE Tower" width="100%"></picture></a>
 </p>
-<p align="right"><sub><a href="https://pathout.pathout-hub.workers.dev">live site ↗</a> &nbsp;·&nbsp; <a href="https://pathout.pathout-hub.workers.dev/simulation/">live demo, on request ↗</a> &nbsp;·&nbsp; <a href="https://xcessiveemile.github.io/projects#pathout">case study ↗</a></sub></p>
+<p align="right"><sub><a href="https://xcessiveemile.github.io/projects#pathout">see how it works ↗</a></sub></p>
 
 <details><summary><b>How I built it</b></summary>
 
@@ -26,9 +26,9 @@
 </details>
 
 <p>
-<a href="https://deeptune.eu/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/deeptune-dark.png"><img src="assets/cards/deeptune-light.png" alt="Deeptune, curated music marketplace with 3D studio rooms" width="100%"></picture></a>
+<a href="https://xcessiveemile.github.io/projects#deeptune"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/deeptune-dark.png"><img src="assets/cards/deeptune-light.png" alt="Deeptune, curated music marketplace with 3D studio rooms" width="100%"></picture></a>
 </p>
-<p align="right"><sub><a href="https://deeptune.eu/">deeptune.eu ↗</a> &nbsp;·&nbsp; <a href="https://xcessiveemile.github.io/projects#deeptune">case study ↗</a></sub></p>
+<p align="right"><sub><a href="https://xcessiveemile.github.io/projects#deeptune">see how it works ↗</a></sub></p>
 
 <details><summary><b>How I built it</b></summary>
 
@@ -58,7 +58,7 @@
 <p>
 <a href="https://xcessiveemile.github.io/projects#clipmonster"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/clipmonster-dark.png"><img src="assets/cards/clipmonster-light.png" alt="ClipMonster, local trend-to-video studio" width="100%"></picture></a>
 </p>
-<p align="right"><sub><a href="https://xcessiveemile.github.io/projects#clipmonster">case study ↗</a></sub></p>
+<p align="right"><sub><a href="https://xcessiveemile.github.io/projects#clipmonster">see how it works ↗</a></sub></p>
 
 <details><summary><b>How I built it</b></summary>
 
