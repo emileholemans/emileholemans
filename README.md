@@ -1,4 +1,4 @@
-# Hi, I'm Emile 👋
+# Hi, I'm Emile
 
 Software developer in Madrid. I build web, 3D and AI products, from the first idea to a working product people use.
 
